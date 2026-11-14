@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Domination",
+		"victoryScreenHeader": "Conquer the Northern Plateau!",
+		"milestones": ["Conquer all other major civilizations"],
+		"victoryText": "All rival factions have fallen before your magic and steel.",
+		"defeatText": "Your capital has fallen."
+	}
+]
