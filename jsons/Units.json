@@ -11,8 +11,7 @@
 		"unitType": "Melee",
 		"movement": 2,
 		"strength": 10,
-		"cost": 40,
-		"uniques": ["Starting unit"]
+		"cost": 40
 	},
 	{
 		"name": "Apprentice Mage",
@@ -24,3 +23,4 @@
 		"cost": 55
 	}
 ]
+
