@@ -4,6 +4,7 @@
 		"eraNumber": 0,
 		"researchAgreementCost": 150,
 		"startingObsoleteWonders": [],
+		"startingUnits": ["Settler", "Vanguard Warrior"],
 		"baseUnitBuyCost": 200,
 		"embarkDefense": 3,
 		"startPercent": 0,
