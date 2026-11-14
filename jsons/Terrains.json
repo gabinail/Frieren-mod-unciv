@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Grassland",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"RGB": [104, 159, 56]
+	},
+	{
 		"name": "Plains",
 		"type": "Land",
 		"food": 1,
@@ -8,12 +15,10 @@
 		"RGB": [144, 169, 85]
 	},
 	{
-		"name": "Hills",
+		"name": "Desert",
 		"type": "Land",
-		"production": 2,
-		"movementCost": 2,
-		"defenceBonus": 0.25,
-		"RGB": [120, 130, 80]
+		"movementCost": 1,
+		"RGB": [230, 210, 140]
 	},
 	{
 		"name": "Tundra",
@@ -21,6 +26,20 @@
 		"food": 1,
 		"movementCost": 1,
 		"RGB": [180, 190, 190]
+	},
+	{
+		"name": "Snow",
+		"type": "Land",
+		"movementCost": 1,
+		"RGB": [240, 245, 250]
+	},
+	{
+		"name": "Hills",
+		"type": "Land",
+		"production": 2,
+		"movementCost": 2,
+		"defenceBonus": 0.25,
+		"RGB": [120, 130, 80]
 	},
 	{
 		"name": "Mountain",
