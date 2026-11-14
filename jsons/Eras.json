@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Mythical Era",
+		"eraNumber": 0,
+		"researchAgreementCost": 150,
+		"startingObsoleteWonders": [],
+		"baseUnitBuyCost": 200,
+		"embarkDefense": 3,
+		"startPercent": 0,
+		"citySound": "cityClassical",
+		"iconRGB": [200, 180, 100]
+	}
+]
