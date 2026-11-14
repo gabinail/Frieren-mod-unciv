@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Continental Magic Association",
+		"leaderName": "Serie",
+		"adjective": ["Mage"],
+		"startBias": ["Hills"],
+		"preferredVictoryTypes": ["Science", "Domination"],
+		"declaringWar": "Magic is the privilege of the strong. Let us see what you are capable of.",
+		"attacked": "Foolishness. You challenge the pinnacle of magic.",
+		"defeated": "An unexpected outcome... Perhaps this era truly belongs to humans.",
+		"introduction": "I am Serie, founder of the Continental Magic Association. Do you possess the ambition to grasp true magic?",
+		"neutralHello": "Speak quickly. My time is precious.",
+		"hateHello": "Your mana is repulsive.",
+		"tradeRequest": "An exchange of grimoires and resources? Let us hear it.",
+		"outerColor": [245, 222, 179],
+		"innerColor": [65, 105, 225],
+		"cities": ["Auberst", "Strahl", "Eiseberg", "Vorig", "Waal"]
+	},
+	{
+		"name": "Demon King Army",
+		"leaderName": "Macht of El Dorado",
+		"adjective": ["Demon"],
+		"startBias": ["Tundra"],
+		"preferredVictoryTypes": ["Domination"],
+		"declaringWar": "I wish to understand human malice and coexistence. Die for my experiment.",
+		"attacked": "Curse of Gold will turn your lands into eternal statues.",
+		"defeated": "So this is... defeat. Still, I do not comprehend human emotions.",
+		"introduction": "I am Macht, one of the Seven Sages of Destruction. Humans and demons cannot coexist, yet I still seek to understand you.",
+		"neutralHello": "State your purpose, human.",
+		"hateHello": "You will become golden dust.",
+		"tradeRequest": "Even demons understand the value of a temporary truce.",
+		"outerColor": [40, 40, 45],
+		"innerColor": [218, 165, 32],
+		"cities": ["Weise", "Northern Plateau", "Ende", "Graf Granat Domain", "Vorig Ruins"]
+	}
+]
