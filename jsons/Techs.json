@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Mythical Era",
+		"eraNumber": 0,
+		"researchAgreementCost": 150,
+		"startingObsoleteWonders": [],
+		"techs": [
+			{
+				"name": "Mana Detection",
+				"cost": 20,
+				"row": 2,
+				"column": 1,
+				"quote": "Suppressing your mana is the most basic way to deceive a demon. — Flamme"
+			}
+		]
+	}
+]
