@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 80,
+		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction"]
+	},
+	{
+		"name": "Vanguard Warrior",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"uniques": ["Starting unit"]
+	},
+	{
+		"name": "Apprentice Mage",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 12,
+		"range": 2,
+		"cost": 55
+	}
+]
